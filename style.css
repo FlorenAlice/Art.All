@@ -13,7 +13,8 @@ h2{
 
 button{
   padding: 10px 24px;
-  color: hsl(0, 60%, 50%);
+  background-color: hsl(0, 60%, 50%);
   border: none;
- 
+  color: hsl(33, 40%, 92%);
+  text-align: center;
 }
