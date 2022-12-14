@@ -12,5 +12,8 @@ h2{
 }
 
 button{
-  
+  padding: 10px 24px;
+  color: hsl(0, 60%, 50%);
+  border: none;
+ 
 }
