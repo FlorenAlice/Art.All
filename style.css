@@ -1,5 +1,5 @@
-background {
-  background-image: ("https://cdn.glitch.global/5eef1545-b4f1-46ba-830e-4e46539b59ae/download.jpeg?v=1671025100883");
+body {
+  background-image: url("https://cdn.glitch.global/5eef1545-b4f1-46ba-830e-4e46539b59ae/M%C3%A1rmore%203.png?v=1671026427851");
   background-repeat: no-repeat;
 }
 h1 {
@@ -7,12 +7,14 @@ h1 {
   text-align: center;
   color: hsl(0, 60%, 50%);
   margin-top: 100px;
+  font-size: 70px;
 }
 h2 {
   font-family: "Courier New", monospace;
   text-align: center;
   color: hsl(0, 60%, 50%);
-  margin-top: 100px;
+  margin-top: 2px;
+  
 }
 button {
   padding: 10px 24px;
