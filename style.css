@@ -1,17 +1,20 @@
-background{
+background {
   background-image: ("");
   background-repeat: no-repeat;
 }
-
-h1{
-   font-family: "Monaco", monospace;
+h1 {
+  font-family: "Monaco", monospace;
+  text-align: center;
+  color: hsl(0, 60%, 50%);
+  margin-top: 100px;
 }
-
-h2{
-   font-family: "Courier New", monospace;
+h2 {
+  font-family: "Courier New", monospace;
+  text-align: center;
+  color: hsl(0, 60%, 50%);
+  margin-top: 100px;
 }
-
-button{
+button {
   padding: 10px 24px;
   background-color: hsl(0, 60%, 50%);
   border: none;

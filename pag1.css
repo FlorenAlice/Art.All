@@ -1,5 +1,17 @@
-background{
+background {
   background-color: hsl(33, 40%, 92%);
 }
- margin-right: 150px;
-   margin-left: 150px;
+h1 {
+  margin-right: 150px;
+  margin-left: 150px;
+  margin-top: 100px;
+  color: hsl(0, 60%, 50%);
+  font-family: "Monaco", monospace;
+}
+h2,p {
+  margin-right: 150px;
+  margin-left: 150px;
+  margin-top: 100px;
+  color: hsl(0, 60%, 50%);
+  font-family: "Courier New", monospace;
+}
