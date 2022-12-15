@@ -2,24 +2,30 @@ body {
   background-image: url("https://cdn.glitch.global/5eef1545-b4f1-46ba-830e-4e46539b59ae/M%C3%A1rmore%203.png?v=1671026427851");
   background-repeat: no-repeat;
 }
+
 h1 {
   font-family: "Monaco", monospace;
   text-align: center;
   color: hsl(0, 44%, 38%);
-  margin-top: 190px;
-  font-size:150px;
+  margin-top: px;
+  font-size: 150px;
+  line-height: 1px;
 }
+
 h2 {
   font-family: "Courier New", monospace;
   text-align: center;
   color: hsl(0, 44%, 38%);
+  line-height: 1px;
 }
 
-a{
-    text-decoration: none;
-    display: inline-block;
-    margin
+a {
+  text-decoration: none;
+  display: inline-block;
+  margin-left: 1200px;
+  margin-top: 50px;
 }
+
 a:hover {
   background-color: hsl(0, 47%, 58%);
   color: hsl(33, 40%, 92%);
@@ -32,5 +38,3 @@ a:hover {
   color: hsl(33, 40%, 92%);
   text-align: center;
 }
-
-
