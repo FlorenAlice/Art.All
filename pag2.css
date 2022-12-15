@@ -1,3 +1,78 @@
 background{
   background-color: hsl(33, 40%, 92%);
 }
+h1 {
+  margin-right: 150px;
+  margin-left: 150px;
+  margin-top: 100px;
+  color: hsl(0, 44%, 38%);
+  font-family: "Monaco", monospace;
+}
+h2,p {
+  margin-right: 150px;
+  margin-left: 150px;
+  margin-top: 100px;
+  color: hsl(0, 44%, 38%);
+  font-family: "Courier New", monospace;
+}
+.navbar {
+  overflow: hidden;
+  background-color: hsl(0, 44%, 38%);
+}
+
+.navbar a {
+  float: left;
+  font-size: 15px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: "Monaco", monospace;
+}
+
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+.dropdown .dropbtn {
+  font-size: 15px;  
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: "Monaco", monospace;
+  margin: 0;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn{
+  background-color: hsl(0, 47%, 58%);
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: hsl(33, 40%, 92%);
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  float: none;
+  font-family: "Monaco", monospace;
+  color: hsl(0, 44%, 38%);
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+.dropdown-content a:hover{
+  background-color: hsl(0, 39%, 83%);
+}
+
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
