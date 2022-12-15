@@ -7,7 +7,7 @@ h1 {
   font-family: "Monaco", monospace;
   text-align: center;
   color: hsl(0, 44%, 38%);
-  margin-top: px;
+  margin-top: 350px;
   font-size: 150px;
   line-height: 1px;
 }
@@ -22,8 +22,8 @@ h2 {
 a {
   text-decoration: none;
   display: inline-block;
-  margin-left: 1200px;
-  margin-top: 50px;
+  margin-left: 1130px;
+  margin-top: 100px;
 }
 
 a:hover {
