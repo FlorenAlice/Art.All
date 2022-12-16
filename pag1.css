@@ -2,7 +2,7 @@ body {
   background-color: hsl(33, 40%, 92%);
 }
 h1 {
-  margin-right: 150px;
+  margin-right: 250px;
   margin-left: 150px;
   margin-top: 100px;
   color: hsl(0, 44%, 38%);
@@ -10,7 +10,7 @@ h1 {
   line-height: 1px;
 }
 h2,p {
-  margin-right: 150px;
+  margin-right: 250px;
   margin-left: 150px;
   margin-top: 100px;
   color: hsl(0, 44%, 38%);
