@@ -1,4 +1,4 @@
-background {
+body {
   background-color: hsl(33, 40%, 92%);
 }
 h1 {
@@ -75,4 +75,9 @@ h2,p {
 
 .dropdown:hover .dropdown-content {
   display: block;
+}
+
+img{
+  margin-top: 45px;
+  margin-left: 25px;
 }
