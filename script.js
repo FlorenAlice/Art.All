@@ -1,4 +1,2 @@
-/* If you're feeling fancy you can add interactivity 
-    to your site with Javascript */
-
-console.log("Hello, world!");
+const d = new Date();
+document.getElementById("date").innerHTML = d;
