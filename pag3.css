@@ -14,7 +14,8 @@ h2,p {
   margin-top: 100px;
   color: hsl(0, 44%, 38%);
   font-family: "Courier New", monospace;
-}.navbar {
+}
+.navbar {
   overflow: hidden;
   background-color: hsl(0, 44%, 38%);
 }
