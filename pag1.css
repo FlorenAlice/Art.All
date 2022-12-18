@@ -2,10 +2,14 @@ body {
   background-color: hsl(33, 40%, 92%);
 }
 h1 {
+  margin-left: 20px;
+  margin-right: 20px;
   color: hsl(0, 44%, 38%);
   font-family: "Monaco", monospace;
 }
 h2,p {
+  margin-left: 20px;
+  margin-right: 20px;
   color: hsl(0, 44%, 38%);
   font-family: "Courier New", monospace;
 }
@@ -68,5 +72,7 @@ h2,p {
   display: block;
 }
 img{
-  
+  margin-top: 5px;
+  width: 1520px;
+  height: 420px;
 }
