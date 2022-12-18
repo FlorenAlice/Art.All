@@ -2,23 +2,14 @@ body {
   background-color: hsl(33, 40%, 92%);
 }
 h1 {
-  margin-right: 5px;
-  margin-left: 20px;
-  margin-top: 100px;
   color: hsl(0, 44%, 38%);
   font-family: "Monaco", monospace;
-   line-height: 1px;
 }
 h2,p {
-  margin-right: 5px;
-  margin-left: 20px;
-  margin-top: 100px;
   color: hsl(0, 44%, 38%);
   font-family: "Courier New", monospace;
 }
-h2{
-  line-height: 1px;
-}
+
 .navbar {
   overflow: hidden;
   background-color: hsl(0, 44%, 38%);
@@ -84,4 +75,11 @@ h2{
 img{
   margin-top: 45px;
   margin-left: 25px;
+}
+
+.article{
+  line-height: 20px;
+  margin-right: 5px;
+  margin-left: 20px;
+  margin-top: 50px;
 }
