@@ -78,13 +78,14 @@ img{
 }
 
 .gif{
-  margin-top: 1px;
+  margin-top: 40px;
   margin-left: 25px;
 }
 .quots{
   margin-left: 70px;
   margin-right: 70px;
-  margin-top: 110px;
+  margin-top: 60px;
+  margin-bottom: 40px;
 }
 
 html {
