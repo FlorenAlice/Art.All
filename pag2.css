@@ -11,7 +11,6 @@ h1 {
 h2,p {
   margin-right: 100px;
   margin-left: 150px;
-  margin-top: 20px;
   color: hsl(0, 44%, 38%);
   font-family: "Courier New", monospace;
 }.navbar {
@@ -73,16 +72,22 @@ h2,p {
 }
 
 h2 {
-  border-left: 6px solid hsl(345, 31%, 32%);
+  border-left: 5px solid hsl(345, 31%, 32%);
+  margin-top: 20px;
 }
 p{
-  border-left: 2px solid hsl(345, 31%, 32%)
+  border-left: 1px solid hsl(345, 31%, 32%);
+  margin-top: 3px;
 }
 .border{ 
   width: 30px;
   height: 30px;
-  background-image: "https://cdn.glitch.global/5eef1545-b4f1-46ba-830e-4e46539b59ae/border.png?v=1671551354756";
+  background-image: "https://cdn.glitch.global/5eef1545-b4f1-46ba-830e-4e46539b59ae/M%C3%A1rmore%203.png?v=1671026427851";
   background-repeat: repeat-y;
   background-position-y: left;
 }
 
+.guide{
+  width: 100px;
+  height: 100px;
+}
