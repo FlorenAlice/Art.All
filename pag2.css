@@ -11,7 +11,7 @@ h1 {
 h2,p {
   margin-right: 100px;
   margin-left: 150px;
-  margin-top: 100px;
+  margin-top: 20px;
   color: hsl(0, 44%, 38%);
   font-family: "Courier New", monospace;
 }.navbar {
@@ -48,7 +48,6 @@ h2,p {
 .navbar a:hover, .dropdown:hover .dropbtn{
   background-color: hsl(0, 47%, 58%);
 }
-
 .dropdown-content {
   display: none;
   position: absolute;
@@ -57,7 +56,6 @@ h2,p {
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
 }
-
 .dropdown-content a {
   float: none;
   font-family: "Monaco", monospace;
@@ -70,17 +68,17 @@ h2,p {
 .dropdown-content a:hover{
   background-color: hsl(0, 39%, 83%);
 }
-
-
 .dropdown:hover .dropdown-content {
   display: block;
 }
 .guide {
   width: 500px;
   padding: 50px;
-  margin-top: 5px;
-  margin: 30px;
+  margin: 5px;
 }
 h2 {
   border-left: 6px solid hsl(345, 31%, 32%);
+}
+p{
+  border-left: 2px solid hsl(345, 31%, 32%)
 }
