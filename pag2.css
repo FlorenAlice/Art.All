@@ -1,6 +1,5 @@
 body{
   background-color: hsl(33, 40%, 92%);
- 
 }
 h1 {
   margin-right: 220px;
@@ -72,22 +71,14 @@ h2,p {
 .dropdown:hover .dropdown-content {
   display: block;
 }
-.guide {
-  width: 500px;
-  padding: 50px;
-  margin: 5px;
-}
+
 h2 {
   border-left: 6px solid hsl(345, 31%, 32%);
 }
 p{
   border-left: 2px solid hsl(345, 31%, 32%)
 }
-nav {
-  float: left;
-  width: 30%;
-  height: 80px;
-  background-image: "https://cdn.glitch.global/5eef1545-b4f1-46ba-830e-4e46539b59ae/Design%20sem%20nome%20(5).png?v=1671551354756";
-  background-repeat: repeat-y;
-  padding: 20px;
+.borderimg {
+border-image: "https://cdn.glitch.global/5eef1545-b4f1-46ba-830e-4e46539b59ae/Design%20sem%20nome%20(5).png?v=1671551354756" repeat-y;
+border-left: 30px;
 }
