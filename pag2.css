@@ -82,3 +82,7 @@ h2 {
 p{
   border-left: 2px solid hsl(345, 31%, 32%)
 }
+.pretty{
+  background-image: "https://cdn.glitch.global/5eef1545-b4f1-46ba-830e-4e46539b59ae/Design%20sem%20nome%20(5).png?v=1671551354756";
+  background-position: left ; 
+}
