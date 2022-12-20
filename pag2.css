@@ -75,3 +75,11 @@ h2,p {
 .dropdown:hover .dropdown-content {
   display: block;
 }
+div {
+  width: 300px;
+  padding: 50px;
+  margin: 20px;
+}
+h1,h2 {
+  border-left: 6px solid red;
+}
