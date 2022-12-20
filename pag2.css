@@ -2,14 +2,14 @@ body{
   background-color: hsl(33, 40%, 92%);
 }
 h1 {
-  margin-right: 150px;
+  margin-right: 220px;
   margin-left: 150px;
-  margin-top: 100px;
+  margin-top: 50px;
   color: hsl(0, 44%, 38%);
   font-family: "Monaco", monospace;
 }
 h2,p {
-  margin-right: 150px;
+  margin-right: 100px;
   margin-left: 150px;
   margin-top: 100px;
   color: hsl(0, 44%, 38%);
@@ -75,11 +75,12 @@ h2,p {
 .dropdown:hover .dropdown-content {
   display: block;
 }
-div {
-  width: 300px;
+.guide {
+  width: 500px;
   padding: 50px;
-  margin: 20px;
+  margin-top: 5px;
+  margin: 30px;
 }
-h1,h2 {
-  border-left: 6px solid red;
+h2 {
+  border-left: 6px solid hsl(345, 31%, 32%);
 }
