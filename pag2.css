@@ -3,17 +3,27 @@ body{
 }
 h1 {
   margin-right: 220px;
-  margin-left: 150px;
+  margin-left: 130px;
   margin-top: 50px;
   color: hsl(0, 44%, 38%);
   font-family: "Monaco", monospace;
 }
-h2,p {
+h2{
   margin-right: 100px;
   margin-left: 150px;
   color: hsl(0, 44%, 38%);
   font-family: "Courier New", monospace;
-}.navbar {
+  border-left: 5px solid hsl(345, 31%, 32%);
+  margin-top: 60px;
+}
+  
+p{
+  margin-right: 100px;
+  margin-left: 150px;
+  color: hsl(0, 44%, 38%);
+  font-family: "Courier New", monospace;
+}
+.navbar {
   overflow: hidden;
   background-color: hsl(0, 44%, 38%);
 }
@@ -73,21 +83,12 @@ h2,p {
 
 h2 {
   border-left: 5px solid hsl(345, 31%, 32%);
-  margin-top: 20px;
+  margin-top: 60px;
 }
 p{
   border-left: 1px solid hsl(345, 31%, 32%);
-  margin-top: 3px;
 }
-.border{ 
-  width: 30px;
-  height: 30px;
-  background-image: "https://cdn.glitch.global/5eef1545-b4f1-46ba-830e-4e46539b59ae/M%C3%A1rmore%203.png?v=1671026427851";
-  background-repeat: repeat-y;
-  background-position-y: left;
-}
-
-.guide{
-  width: 100px;
-  height: 100px;
+.guide{ 
+ margin-left: 55px;
+ margin-right: 30px;
 }
