@@ -88,7 +88,9 @@ p{
 }
 img{
   border-radius: 8px;
-  width: 60px;
-  height: 60px;
+  margin-left: 30px;
+  margin-top: 22px;
+  width: 140px;
+  height: 210px;
   float: left;
 }
