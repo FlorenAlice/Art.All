@@ -101,9 +101,11 @@ h2,p {
 }
 
 .box > span {
+  font-family: "Courier New", monospace;
   font-size: 3.8vh;
   display: block;
   text-align: center;
+  color: hsl(0, 0%, 50%);
   height: 10vh;
   line-height: 2.6;
 }
