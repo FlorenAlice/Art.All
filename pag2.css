@@ -15,12 +15,14 @@ h2{
   font-family: "Courier New", monospace;
   border-left: 5px solid hsl(345, 31%, 32%);
   margin-top: 60px;
+  font-size: 30px;
 }
   
 p{
   color: hsl(0, 44%, 38%);
   font-family: "Courier New", monospace;
   border-left: 1px solid hsl(345, 31%, 32%);
+  font-size: 20px;
 }
 .navbar {
   overflow: hidden;
@@ -94,6 +96,7 @@ table {
 }
 
 td {
+  line-height: 0.8;
   border: none;
   text-align: left;
   padding: 8px;
