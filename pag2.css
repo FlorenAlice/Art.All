@@ -94,9 +94,14 @@ table {
   font-family: "Courier New", monospace;
   border-collapse: collapse;
   width: 100%;
+  border-spacing: 5px;
 }
 
 th {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
   border: none;
   text-align: left;
   padding: 8px;
