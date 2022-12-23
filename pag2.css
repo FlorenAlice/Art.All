@@ -24,6 +24,12 @@ p{
   border-left: 1px solid hsl(345, 31%, 32%);
   font-size: 20px;
 }
+
+h3{
+  color: hsl(0, 0%, 50%);
+  font-family: "Courier New", monospace;
+  font-size: ;
+}
 .navbar {
   overflow: hidden;
   background-color: hsl(0, 44%, 38%);
