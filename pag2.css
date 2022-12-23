@@ -87,15 +87,13 @@ img{
   height: 220px;
 }
 table {
+  margin-left: 40px;
+  margin-right: 40px;
   font-family: "Courier New", monospace;
-  border-collapse: collapse;
-  width: 100%;
-  border-spacing: 5px;
+  border: none;
 }
 
 td {
-  padding-left: 10px;
-  padding-ri
   border: none;
   text-align: left;
   padding: 8px;
