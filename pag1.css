@@ -71,6 +71,26 @@ h2,p {
 .dropdown:hover .dropdown-content {
   display: block;
 }
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-instagram {
+  background-color: red;
+  background-image: linear-gradient(purple, yellow);
+  color: white;
+}
+
 img{
   margin-top: 5px;
   width: 1502px;
