@@ -82,10 +82,6 @@ p{
   display: block;
 }
 
-.guide{ 
- margin-left: 50px;
- margin-right: 30px;
-}
 img{
   border-radius: 8px;
   margin-left: 30px;
@@ -93,4 +89,23 @@ img{
   width: 150px;
   height: 220px;
   float: left;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto ;
+  grid-gap: 10px;
+  background-color: #2196F3;
+  padding: 10px;
+}
+
+.grid-container > div {
+  background-color: rgba(255, 255, 255, 0.8);
+  text-align: center;
+  padding: 20px 0;
+  font-size: 30px;
+}
+
+.item1 {
+  grid-column: 1/ span 7 ;
 }
