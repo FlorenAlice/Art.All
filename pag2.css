@@ -94,18 +94,22 @@ img{
 .grid-container {
   display: grid;
   grid-template-columns: auto ;
-  grid-gap: 10px;
-  background-color: #2196F3;
+  grid-gap: 20px;
+  background-color: hsl(33, 40%, 92%);
   padding: 10px;
 }
 
 .grid-container > div {
-  background-color: rgba(255, 255, 255, 0.8);
-  text-align: center;
+  background-color: hsl(33, 40%, 92%);
+  text-align: left;
   padding: 20px 0;
   font-size: 30px;
 }
 
 .item1 {
   grid-column: 1/ span 7 ;
+}
+
+.item2{
+  
 }
