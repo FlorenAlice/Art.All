@@ -86,12 +86,12 @@ p{
 
 img{
   border-radius: 8px;
+  margin-left: 10px;
   width: 150px;
   height: 220px;
   float: left;
 }
 
 .columns{
-  columns: 25
-  
+  column-width: auto;
 }
