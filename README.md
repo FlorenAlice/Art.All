@@ -4,5 +4,4 @@
 <p>Website developed in an online IDE (Glitch.com), using HTML, Css and Javascript.</p>
 
 <br>
-<p>Gallery layout from </p>
-<a herf="https://codepen.io/knyttneve/pen/YgZbLO"></a>
+<p>Gallery layout from </p> (https://codepen.io/knyttneve/pen/YgZbLO)
